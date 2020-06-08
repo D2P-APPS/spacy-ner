@@ -22,6 +22,7 @@ To setup:
 2. cd to the directory where requirements.txt is located
 3. activate your virtualenv
 4. run: pip install -r requirements.txt
+5. to install a default language model, run: python -m spacy download en_core_web_sm
 
 ## Resources
 
